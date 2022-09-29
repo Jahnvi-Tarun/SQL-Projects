@@ -8,3 +8,5 @@ The steps to complete the project were:
 - Common Table Expressions (CTEs)
 - SQL XML Path Function
 - RFM Analysis
+
+Link to view my Tableau dashboard : https://public.tableau.com/views/SALESPERFORMANCEDASHBOARD_16643644532060/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
